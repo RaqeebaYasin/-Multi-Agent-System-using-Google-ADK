@@ -51,17 +51,21 @@ Multi-Agent/
 
 ---
 
+
 ## ⚙️ Setup Instructions
+
+
 ### 1️⃣ Clone this repository
 ``bash
 git clone https://github.com/<YOUR_USERNAME>/Multi-Agent.git
 cd Multi-Agent
-
 2️⃣ Install dependencies
 pip install -r requirements.txt
 3️⃣ Run the system
 python3 main_agent.py
 You’ll be prompted:
+
+
 
 🤖 Multi-Agent System Started!
 Enter your question:
@@ -72,15 +76,16 @@ Enter your question: Explain how solar energy works
 ✅ Final Answer:
 Solar energy converts sunlight into usable electricity through photovoltaic cells or heat systems.
 
+
+
 **🚀 Future Enhancements**
 
 Add a Flask Web Interface
-
 Integrate memory persistence
-
 Build multi-role coordination (e.g. planner, critic, executor)
-
 Support for voice and chatbot input
+
+
 
 👩‍💻 Author
 
