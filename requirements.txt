@@ -1,0 +1,4 @@
+These are required for this project:
+
+google-adk
+python-dotenv
