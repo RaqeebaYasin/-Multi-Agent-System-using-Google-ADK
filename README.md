@@ -40,19 +40,23 @@ It shows how multiple agents can collaborate — one to research and another to 
 Multi-Agent/
 │
 ├── main_agent.py # Controls agent coordination
+
 ├── researcher_agent.py # Researches information
+
 ├── summarizer_agent.py # Summarizes research
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 ---
 
 ## ⚙️ Setup Instructions
-
 ### 1️⃣ Clone this repository
-```bash
+``bash
 git clone https://github.com/<YOUR_USERNAME>/Multi-Agent.git
 cd Multi-Agent
+
 2️⃣ Install dependencies
 pip install -r requirements.txt
 3️⃣ Run the system
@@ -84,3 +88,7 @@ Raqeeba Yasin
 🎓 BSCS Student, University of the Punjab
 💡 Passionate about AI, innovation, and national development.
 🌍 Aiming to serve Pakistan with advanced AI and computing technologies.
+
+
+
+
